@@ -1,4 +1,4 @@
-##Hello World React.JS
+# hello-world-reactjs
 
 Using:
 
