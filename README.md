@@ -1,5 +1,5 @@
 ##Hello World React.JS
 
-Utilizando
+Using:
 
 https://github.com/facebookincubator/create-react-app
